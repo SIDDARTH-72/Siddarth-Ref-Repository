@@ -1,4 +1,6 @@
-print('PY')
+# READ ONLY NOT USABLE 
+
+# print('PY')
 # nums = [1, 2, 3, 4]
 # nums.insert(4, 7) this is index value and object
 # nums.remove(2) this is not the index value, this the object that
