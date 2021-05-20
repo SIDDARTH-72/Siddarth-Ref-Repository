@@ -1,5 +1,7 @@
 # READ ONLY NOT USABLE 
 
+CAN I CHANGE THIS?
+
 # print('PY')
 # nums = [1, 2, 3, 4]
 # nums.insert(4, 7) this is index value and object
